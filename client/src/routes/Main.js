@@ -8,6 +8,7 @@ class Main extends Component {
     return (
       <div className="App">
         <TopNav/>
+        <h1>The Chumi Channel</h1>
         <Body/>
       
 

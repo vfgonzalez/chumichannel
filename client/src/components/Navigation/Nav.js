@@ -10,7 +10,7 @@ handleRedirect(){
 
     render() {
         return (
-                <Navbar brand='Chumi Channel' className="black" right>
+                <Navbar className="black" right>
                     <NavItem >Sample</NavItem>
                     <NavItem >Follow Us</NavItem>
                     <NavItem

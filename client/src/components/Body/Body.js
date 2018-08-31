@@ -9,21 +9,24 @@ class Body extends Component{
             <div>
             <Slider>
                 <Slide
-                    src="http://lorempixel.com/580/250/nature/1"
-                    title="This is our big Tagline!">
-                    Here's our small slogan.
+                    className="black-text"
+                    src="./images/Slider/drone.jpg"
+                    title="Travel">
+                    Follow us through our journies around the world.
                 </Slide>
                 <Slide
-                    src="http://lorempixel.com/580/250/nature/2"
-                    title="Left aligned Caption"
+                    
+                    className="black-text"
+                    src="./images/Slider/wedding.jpg"
+                    title="Wedding"
                     placement="left">
-                    Here's our small slogan.
+                    Relive our day with us
                 </Slide>
                 <Slide
-                    src="http://lorempixel.com/580/250/nature/3"
-                    title="Right aligned Caption"
-                    placement="right">
-                    Here's our small slogan.
+                    src="./images/Slider/mirmir.jpg"
+                    title="Third Item"
+                    placement="left">
+                    To be Filled with items.
                 </Slide>
                 <Slide
                     src="http://lorempixel.com/580/250/nature/3"
